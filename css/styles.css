@@ -311,7 +311,7 @@ svg {
 }
 .bg-img {
   background-image: url('/assets/img/cinema-theatre.jpg');
-  size: cover;
+  width: 100%;
 }
 
 table {
