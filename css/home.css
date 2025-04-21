@@ -1,0 +1,17 @@
+.heading {
+    margin-top: 10px;
+    font-family: Karla;
+    color: var(--black);
+  }
+  
+  .container-3 {
+    display: block;
+    grid-auto-columns: 1fr;
+    gap: 16px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+  }
+  
+  .navbar {
+    background-color: rgba(221, 221, 221, 0);
+  }
